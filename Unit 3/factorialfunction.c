@@ -1,4 +1,4 @@
-#include &lt;stdio.h&gt;
+#include<stdio.h>
 
 long int factorial(int n)
 {
